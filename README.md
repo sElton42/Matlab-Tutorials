@@ -12,7 +12,9 @@
         <a href="https://github.com/sElton42/Matlab-Tutorials/tree/master/How%20to%20Make%20GIFs%20-%20Animated%20Plot">
         How to Make GIFs | Animated Plot
         </a>
+        <br>
+        <a href="https://www.youtube.com/watch?v=fCL3HvuoE3Q">
+        Go to tutorial video.
+        </a>
     </li>
 </ol>
-    
- 
