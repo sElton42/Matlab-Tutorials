@@ -1,4 +1,4 @@
-<p align="center">
+<p>
  <img src="MATLABsym.png" alt="Matlab Logo" style="display:block;float:none;margin-left:auto;margin-right:auto;width:30%"/>
 </p>
  <h1 align="center">Matlab Tutorials</h1>
