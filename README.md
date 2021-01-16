@@ -1,9 +1,9 @@
-<p align="center">
+<div align="center">
     <img src="MATLABsym.png" 
     alt="Matlab Logo"
     /> 
     <h1>Matlab Tutorials</h1>
-</p>
+</div>
 
 <h3 align="center">Repository with every code used in Matlab Tutorials Videos:</h3>
 
